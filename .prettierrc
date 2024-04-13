@@ -1,0 +1,7 @@
+{
+  "plugins": ["@prettier/plugin-ruby"],
+  "ruby": {
+    "inlineArrays": true,
+    "rubyArrayLiteral": true
+  }
+}
